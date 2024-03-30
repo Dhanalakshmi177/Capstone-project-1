@@ -36,7 +36,8 @@ After the project has been successfully set up and activated, users can interact
 * Use these integrated features to perform analysis and visualisation of channel data.
 ## Method of use
 Follow these steps,to use this project :
- 1.Set up the streamlit package : pip install streamlit
+ 1 Set up the streamlit package : pip install streamlit
+ 
  2.Run the Streamlit app: streamlit run app.py
  3.The web browser will launch instantly, allowing you to access it.
  4.Open your web browser if it doesn't start automatically. By starting a new tab and typing the following URL, you can visit it:http://localhost:8501
