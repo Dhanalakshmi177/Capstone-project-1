@@ -39,11 +39,17 @@ Follow these steps,to use this project :
  1 Set up the streamlit package : pip install streamlit
  
  2.Run the Streamlit app: streamlit run app.py
+ 
  3.The web browser will launch instantly, allowing you to access it.
+
  4.Open your web browser if it doesn't start automatically. By starting a new tab and typing the following URL, you can visit it:http://localhost:8501
+ 
  5.Click the store data button after entering the channel ID in the text field on the Extract tab.
+ 
  6.The database will hold the channel's details.
+ 
  7.In the views tab,Select the questions that best fit your needs.
+ 
 ## Conclusion
  The goal of this project is to create an intuitive Streamlit application by using the Google API to retrieve comprehensive data from YouTube channels. After being retrieved, the data is kept in a SQL data 
  warehouse. The Streamlit app improves the overall data exploration experience by providing users with the ability to quickly search for channel details and execute table joins.
