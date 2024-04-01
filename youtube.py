@@ -35,7 +35,6 @@ mycursor = mydb.cursor()
 
 # ------------------------------------------------------FETCHING CHANNEL DETAILS
 
-channel_id='UCEgCIzCmg20cW_CWsslN1Kg'
 def get_channel_details(channel_id):
     mycursor.execute('''CREATE TABLE IF NOT EXISTS Channel_Table (
                            Channel_Name varchar(255),
