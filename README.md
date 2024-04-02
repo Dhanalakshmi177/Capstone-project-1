@@ -1,6 +1,6 @@
 # YouTube Data Harvesting and Warehousing
 This project gathers data from YouTube channels using the YouTube Data API, followed by meticulous processing and subsequent warehousing.
-## Problem Statemnt 
+## Problem Statement 
 To develop a Streamlit application that enables users to enter a YouTube channel ID and obtain channel information via the YouTube Data API.
 A SQL data warehouse will host the collected data.
 The application ought to provide several search possibilities for retrieving data from the SQL database.
